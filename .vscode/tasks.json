@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/DatingApp2.API/DatingApp2.API.csproj"
+                "${workspaceFolder}/DatingApp.API/DatingApp.API.csproj"
             ],
             "problemMatcher": "$tsc"
         },
@@ -17,7 +17,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/DatingApp2.API/DatingApp2.API.csproj"
+                "${workspaceFolder}/DatingApp.API/DatingApp.API.csproj"
             ],
             "problemMatcher": "$tsc"
         },
@@ -28,7 +28,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/DatingApp2.API/DatingApp2.API.csproj"
+                "${workspaceFolder}/DatingApp.API/DatingApp.API.csproj"
             ],
             "problemMatcher": "$tsc"
         }
